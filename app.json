@@ -1,0 +1,7 @@
+{
+  "name": "Heroku: Python",
+  "description": "Hello",
+  "image": "heroku/python",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
