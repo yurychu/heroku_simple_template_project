@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 
 static_cdn/
+
+*.sqlite3
